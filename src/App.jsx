@@ -2,7 +2,7 @@
 import './styles/main.css'
 import './styles/navbar.css'
 import Img from './assets/image.png'
-import Img2 from './assets/Img2.webp'
+import Img2 from './assets/img2.webp'
 
 function App() {
   const num1 = 22
